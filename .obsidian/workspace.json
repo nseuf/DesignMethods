@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AnxietyKnob/Magical Interface.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magical Interface"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AnxietyKnob/Magical Interface.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Magical Interface"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AnxietyKnob/Magical Interface.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Magical Interface"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AnxietyKnob/Magical Interface.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Magical Interface"
+              "title": "Outline of README"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "ab297b470bff5919",
   "lastOpenFiles": [
-    "README.md",
     "AnxietyKnob/Magical Interface.md",
+    "README.md",
     "AnxietyKnob/Timer.png",
     "AnxietyKnob/OnshapeDesign.png",
     "AnxietyKnob/IMG_20260901_204043.jpg",
