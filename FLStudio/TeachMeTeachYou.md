@@ -13,6 +13,6 @@ A few more hours have passed since starting FL Studio, I knew DAWs were generall
 
 <object data="./FLStudioFlowChart.pdf" type="application/pdf" width="1000px" height="1000px">
     <embed src="./FLStudioFlowChart.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./FLStudioFlowChart.pdf">Download PDF</a>.</p>
+        <a href="./FLStudioFlowChart.pdf">View PDF</a>
     </embed>
 </object>
