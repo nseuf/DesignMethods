@@ -4,4 +4,4 @@ The entire app is based on the idea that in a different environment a translator
 <img src="./images/Screenshot 2026-10-06 at 2.40.23 PM.png" />
 
 The entire app was made in figma
-<a src="https://www.figma.com/design/N5y7hnhQ4hDk4JwhmJimxs/Translation-App-Thingy?node-id=0-1&p=f&t=usEONCNye0Wj128A-0" />
+<a href="https://www.figma.com/design/N5y7hnhQ4hDk4JwhmJimxs/Translation-App-Thingy?node-id=0-1&p=f&t=usEONCNye0Wj128A-0" />
