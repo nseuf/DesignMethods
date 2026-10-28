@@ -73,3 +73,23 @@ Then, for 20 minutes, individually sketch/prototype some concepts for how this t
 Finally, rejoin with your group and share the results of your ideation. What do you like? What do you not like? What can you combine, stretch, modify or remix?  Create a shared Figma file that you can collaborate on to create your final prototype, divide the work among your group, and develop your project for presentation by next class. 
 
 [Translator App](TranslatorApp/CognitiveReloading.md)
+
+### Project 7: Imagined Affordances & Signifiers
+#### Prompt:
+In your explorations, you should have found examples of three design phenomena:
+
+A false affordance - that is, something that appeared (signified) that it should be used one way, but upon interaction, proved to involve an alternative physical interaction. 
+An augmented signifier - evidence that the natural signifiers failed, and had to be modified after the fact to more clearly indicate affordance
+Forcing function - A type of physical constraint that forces a particular interaction from the user. 
+Now, create a design brief with the following information: 
+
+First, list (with images) the examples that you found of each design phenomena.
+
+Second, create prototypes to the following specifications: 
+
+For the false affordance, create two storyboards- one that documents the current interaction, and a second that imagines an improved interaction with as minimal an intervention as possible. Consider multi-sensory solutions. 
+For the augmented signifier, create a visual rendering of an alternative design that would remove the need for the augmentation.
+For the forcing function, imagine the scenario that requires the implementation of this design, and recount it as a visual narrative.
+For all your solutions, start (no matter how rough your sketching skills) with sketching. Sketch at least 4 concepts for each of the prompts, then refine one idea for each, using whatever tools you like.
+
+[Imagined Affordances & Signifiers](ImaginedAS/ImaginedAffordances&Signifiers.md)
