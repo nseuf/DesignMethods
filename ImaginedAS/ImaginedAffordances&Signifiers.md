@@ -7,7 +7,6 @@ but the cord is stuck there.
 ### Augmented Signifier
 People kept leaning their skateboards and scooters on the wall, they did this enough times to warrant a sign
 <img src="./images/augmentedsignifier.jpg" />
-<img src="./images/augmentedsignifiersketch.jpg" />
 
 ### Forcing Function
 The bottom of the microphone is designed in such a way that forces the user to put it in the dock only one way
