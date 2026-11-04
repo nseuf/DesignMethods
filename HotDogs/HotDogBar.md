@@ -27,17 +27,15 @@
 - Olives
 - Diced Onion
 - Garlic
-- Smoked gouda *Millionaires Only
+- Smoked gouda
 #### Odds and Ends
 - Peanut Butter
 - Grape Jelly
 - Cocktail Sausages
 - Shrimp
 - Mac & Cheese
-- Gold Flake *Millionaires Only
-
-### Nic Specialty Hotdog
-Millionaire's Dog
+- Gold Flake
+### Nic Specialty Hotdog - Millionaire's Dog
 #### Ingredients
 Bun
 Hot Dog
@@ -50,6 +48,15 @@ Take Bun and inlay the smoked gouda as a base
 Put hotdog in the bun
 Sprinkle garlic and truffe oil on top
 Finish with a bit of gold leaf
-#### Sign:
-### Will Specialty Hotdog
+#### Sign
+### Will Specialty Hotdog - The Build-a-Dog
+#### Ingredients
+Hot Dog
+Printed Edible Paper Clothes
+#### Assembly
+Aquire Hot Dog
+Dress it how you please with the edible paper clothes
+The edible paper can be adhered to the dog by wrapping it around and adhering it to itself with a bit of water
+#### Sign
 ### Unique Voucher / Achievment / Challenge
+All the people who participated in Will's Specialty Build-a-Dog will be judged and if the hot dog meets the judge's standards they will receive a sticker
