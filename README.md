@@ -93,3 +93,21 @@ For the forcing function, imagine the scenario that requires the implementation 
 For all your solutions, start (no matter how rough your sketching skills) with sketching. Sketch at least 4 concepts for each of the prompts, then refine one idea for each, using whatever tools you like.
 
 [Imagined Affordances & Signifiers](ImaginedAS/ImaginedAffordances&Signifiers.md)
+
+### Project 8: Hot Dog Bar
+#### Prompt:
+In pairs, design a floor plan for a spatial experience, specifically: 
+
+The Hot Dog Bar at the 2026 Whaaat!? Festival. 
+
+To scale map of the lobby of the ATLAS Institute, with table locations, traffic flow, and notes detailing particular places of interest or focus
+A comprehensive list of condiments, and how they are laid out on the bar
+Each person develops a concept for 1 "specialty" combination, with a sign that demonstrates to visitors how this hot dog should be built. 
+A concept for some sort of unique voucher, achievement or playful challenge related to the hot dog bar
+The festival will have two large hot dog "rollers" that is uses to dispense the sausages. (each hold 30 hot dogs). 
+
+Plan to feed 75 people hot dogs. Lunch happens between 12:30-1:30. 
+
+Include considerations of multi-sensory design.
+
+[Hot Dog Bar](HotDogs/HotDogBar.md)
