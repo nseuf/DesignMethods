@@ -38,6 +38,7 @@
 - Monocle
 - Mustache
 - Bandana
+- Star
 - Suit Jacket
 - Dress
 - Sweater
