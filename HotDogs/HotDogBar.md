@@ -27,36 +27,47 @@
 - Olives
 - Diced Onion
 - Garlic
-- Smoked gouda
-#### Odds and Ends
-- Peanut Butter
-- Grape Jelly
 - Cocktail Sausages
 - Shrimp
 - Mac & Cheese
-- Gold Flake
-### Nic Specialty Hotdog - Millionaire's Dog
+#### Accessories
+- Top Hat
+- Cowboy Hat
+- Crown
+- Long Hair
+- Monocle
+- Mustache
+- Bandana
+- Suit Jacket
+- Dress
+- Sweater
+- Shirt
+- Skirt
+- Boot
+### Nic Specialty Hotdog - Millionaire Dog
 #### Ingredients
-Bun
 Hot Dog
-Truffle Oil
-Gold Leaf
-Garlic
-Smoked Gouda
+Top Hat
+Monocle
+Mustache
+Suit Jacket
 #### Assembly
-Take Bun and inlay the smoked gouda as a base
-Put hotdog in the bun
-Sprinkle garlic and truffe oil on top
-Finish with a bit of gold leaf
+Aquire Hotdog
+Dress hotdog with top hat, monocle, mustache, suit jacket
+The edible paper can be adhered to the dog by wrapping it around and adhering it to itself with a bit of water
+Consume
 #### Sign
-### Will Specialty Hotdog - The Build-a-Dog
+### Will Specialty Hotdog - Cowboy Dog
 #### Ingredients
 Hot Dog
-Printed Edible Paper Clothes
+Cowboy Hat
+Bandana
+Boot
 #### Assembly
 Aquire Hot Dog
-Dress it how you please with the edible paper clothes
+Dress hotdog with cowboy hat, bandana around the "neck", and finish with it's single boot
 The edible paper can be adhered to the dog by wrapping it around and adhering it to itself with a bit of water
+Consume
 #### Sign
 ### Unique Voucher / Achievment / Challenge
 All the people who participated in Will's Specialty Build-a-Dog will be judged and if the hot dog meets the judge's standards they will receive a sticker
