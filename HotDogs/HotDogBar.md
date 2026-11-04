@@ -1,5 +1,7 @@
 ## Build-a-Dog Warehouse
 ### Layout
+<img src="./images/buildadog_map.png" />
+
 ### Condiment List
 #### Wet Ingredients
 - Ketchup
@@ -58,11 +60,14 @@ Dress hotdog with top hat, monocle, mustache, suit jacket
 The edible paper can be adhered to the dog by wrapping it around and adhering it to itself with a bit of water
 Consume
 #### Sign
+<img src="./images/dogsign_millionaire.png" />
+
 ### Will Specialty Hotdog - Cowboy Dog
 #### Ingredients
 Hot Dog
 Cowboy Hat
 Bandana
+Sheriff Star
 Boot
 #### Assembly
 Aquire Hot Dog
@@ -70,5 +75,7 @@ Dress hotdog with cowboy hat, bandana around the "neck", and finish with it's si
 The edible paper can be adhered to the dog by wrapping it around and adhering it to itself with a bit of water
 Consume
 #### Sign
+<img src="./images/dogsign_cowboy.png" />
+
 ### Unique Voucher / Achievment / Challenge
 All the people who participated in Will's Specialty Build-a-Dog will be judged and if the hot dog meets the judge's standards they will receive a sticker
