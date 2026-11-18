@@ -117,8 +117,11 @@ Include considerations of multi-sensory design.
 Design a device or idea that addresses an ecosystem service concern.
 
 Choose a concern: Feel free to take an ecosystem service from the list in the reading or identify your own. Some people feel like dog poop is major concern, for others climate change and durable carbon sequestration may take precedence. Choose a primary ecosystem service to repair or augment, it is great if your idea has more than benefit but have one main focus. Clean water, car exhaust, heat stress, whatever. There are plenty of concerns for all.
+
 Sketch It: (During Class) Indicate through quick sketches how your idea might work. It does not need to be a Rube Goldberg contraption, can be simple, even a refinement or improvement on an existing idea. Ideally, it is feasible and does not require changing the known laws of physics, but it’s ok if it involves chemistry or processes that you are not familiar with. Ideally your concept is a “Hybrid”, involving both a level of human intervention and engineering, and a modicum of biological ingredients. (No slavery, please). Check your sketches against your peers, and gather input and feedback.
+
 Illustrate it: (Before next week) What makes your idea awesome? Is it small or large, a personal device or one that is built by the department of transportation? Create a higher-resolution illustration, rendering, or physical model of your concept, and annotate it with explanatory notes. Consider: 
+
 Is there a precedent for this device?
 Why would people want it? Cheaper, better, easier, faster, cooler, healthier?
 Any “Co-benefits”, such as summer shading, make the owner money, edible.
